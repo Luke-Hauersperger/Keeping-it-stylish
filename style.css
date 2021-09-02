@@ -18,7 +18,7 @@ p{
     text-align: center;
 }
 div{
-    background-color: blue;
+    #background-color: blue;
     border: solid 3px black;
     margin: 8px 8px;
 }
